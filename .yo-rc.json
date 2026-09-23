@@ -2,7 +2,7 @@
   "generator-jhipster": {
     "applicationType": "monolith",
     "authenticationType": "jwt",
-    "baseName": "lab1Fsi",
+    "baseName": "aerolineaVirtual",
     "buildTool": "maven",
     "cacheProvider": "ehcache",
     "clientFramework": "react",
@@ -20,7 +20,6 @@
     "jwtSecretKey": "YTA3OGNiODQwYzA2YzAyNWQ3MmM5YjgzMmY4MzU1MTU3MmRhMjhlMzc2MjlhZWYwODIwMTUwNzM0ZTZmN2I0NGI3ZGFjYWJmZWQwMTlkYTMxOWFhMzk5MTNjMmUzNGNlZTk5OTZhMmQ1NmZjOTExNGRiN2E5YjM3ZjBjMzgyNmE=",
     "languages": ["es", "en"],
     "microfrontend": null,
-    "microfrontends": [],
     "nativeLanguage": "es",
     "packageName": "com.mycompany.myapp",
     "prodDatabaseType": "mysql",
